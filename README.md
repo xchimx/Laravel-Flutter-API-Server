@@ -3,6 +3,7 @@
 This is a API for a mobile Flutter app based on Laravel 10, Laravel Sanctum
 
 - [Laravel](https://laravel.com/)
+- [Get the mobile app here](https://github.com/xchimx/Laravel-Flutter-Mobile-App)
 
 ## Getting started
 * clone project `git clone [...]`
